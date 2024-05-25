@@ -1,6 +1,7 @@
 
 
 
+## 📦 Install
 
 ```bash
 
@@ -12,6 +13,7 @@ pip install pydantic
 ```
 
 
+## Usage
 
 ```python
 
